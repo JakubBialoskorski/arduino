@@ -17,7 +17,7 @@ It runs a parallel loop to detect obstacle with either of sensors. If an obstacl
 
 ## Schematic
 
-![Stefan schematic](/stefan/img/schematic.png)
+[Schematic can be found here](/stefan/img/schematic.png)
 
 ## Future plans
 
