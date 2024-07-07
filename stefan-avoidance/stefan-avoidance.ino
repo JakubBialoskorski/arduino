@@ -126,10 +126,10 @@ void avoidObstacle() {
 
   // check sorroundings
   long leftDistance, rightDistance;
-  myServo.write(0);
+  myServo.write(35);
   delay(1000);
   leftDistance = measureDistance();
-  myServo.write(180);
+  myServo.write(145);
   delay(1000); 
   rightDistance = measureDistance();
   myServo.write(90); 
